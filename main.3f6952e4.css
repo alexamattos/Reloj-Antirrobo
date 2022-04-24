@@ -19,5 +19,4 @@ font-size: 0.95rem;}.content { height: 100vh;justify-content: center;}
 .p-sm a i{color: #333;line-height: 30px;}@media screen and (max-width:100px) {.pe{width: 50%;}
 }.team-section{text-align: center;}.inner-width{max-width: 1200px; margin: auto;padding: 20px;color: #333;overflow: hidden;}.pe1{float: left;width: calc(100% / 2);overflow: hidden;transition: 0.4s;}.pe1 img{width: 180px;height: 180px;}
 
-
 /*# sourceMappingURL=main.70a66962.map*/
