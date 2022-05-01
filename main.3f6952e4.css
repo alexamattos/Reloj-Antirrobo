@@ -10,11 +10,6 @@
 .we-help-section {padding: 7rem 0;padding-top: 1rem; } .we-help-section .imgs-gridd {display: -ms-grid;display: grid;-ms-grid-columns: (1fr);grid-template-columns: repeat(27, 1fr);position: relative }.we-help-section .imgs-gridd .gridd {position: relative; }.we-help-section .imgs-gridd .gridd img {max-width: 80%; }.we-help-section .imgs-gridd .gridd.gridd-1 {-ms-grid-column: 1;-ms-grid-column-span: 18;grid-column: 1 / span 18;-ms-grid-row: 1;-ms-grid-row-span: 27;grid-row: 1 / span 27; }.we-help-section .imgs-gridd .gridd.gridd-2 {-ms-grid-column: 19;-ms-grid-column-span: 27;grid-column: 19 / span 27;
 -ms-grid-row: 1;-ms-grid-row-span: 5;grid-row: 1 / span 5;padding-left: 10px; }.we-help-section .imgs-gridd .gridd.gridd-3 {-ms-grid-column: 14;-ms-grid-column-span: 16;grid-column: 14 / span 16;-ms-grid-row: 6;-ms-grid-row-span: 20;grid-row: 6 / span 20;padding-top: 20%; }
 
-#app {top: 0;left: 0;position: fixed;width: 100vw;height: 100vh;overflow: hidden;pointer-events: none;}.grid {position: relative;
-max-width: 300px;margin: 0 auto;padding: 1rem;}.grid__item {margin: 0 0 4rem;}.grid__item-img {max-width: 100%;display: block;cursor: pointer;}.grid__item-title {font-size: 2.25rem;font-weight: 400;margin: 1.25rem 0;line-height: 1;color: var(--color-title);}.grid__item-text {color: var(--color-grid-text);
-font-size: 0.95rem;}.content { height: 100vh;justify-content: center;}
-.grid { display: grid;grid-template-columns: 31% 36% 33%;width: 100%;max-width: 1200px;margin: 10vh auto 0;padding: 0;}.grid__item {padding: 0 4.5vw;}.grid__item:first-child {padding-top: 30%;}.grid__item:nth-child(3) {padding-top: 30%;}
-
 .pe{float: left;width: calc(100% / 3);overflow: hidden;transition: 0.4s;}.pe img{width: 180px;height: 180px;}.p-sm{margin-top: 12px;}.p-sm a{margin: 0 4px;display: inline-block;width: 20px;height: 20px;transition: 0.4s;}.p-sm a:hover{transform: scale(1.2);}
 .p-sm a i{color: #333;line-height: 30px;}@media screen and (max-width:100px) {.pe{width: 50%;}
 }.team-section{text-align: center;}.inner-width{max-width: 1200px; margin: auto;padding: 20px;color: #333;overflow: hidden;}.pe1{float: left;width: calc(100% / 2);overflow: hidden;transition: 0.4s;}.pe1 img{width: 180px;height: 180px;}
